@@ -1,0 +1,11 @@
+Avaliação Técnica
+
+1 - A
+2 - D - Jetty.
+3 - C - Beans, Servlets e JSP.
+4 - A - I, II, III e IV.
+5 - B - "Se os POJOS forem singletons, sim."
+6 - E - Certo e Errado -  "Nas versões mais antigas do Spring era assim, mas atualmente pode ser configurado de outro maneira mais fácil, utilizando Spring Secutiry, e configurando as permissões de path"
+7 - E – Errado
+
+
